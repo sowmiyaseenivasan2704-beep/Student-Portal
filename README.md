@@ -1,8 +1,8 @@
 # Student Portal Management Registration System  
-A simple and efficient web-based application developed using **ASP.NET MVC** and **SQL Server** to manage student registration, student records, and administrative tasks using **Stored Procedures (CRUD)**.
+A simple and efficient web-based application developed using **ASP.NET MVC** and **SQL Server** to manage student registration, student records using **Stored Procedures (CRUD)**.
 
 ##  Project Overview
-This system allows admin to register students, update details, view records, and generate simple reports. The application is built without Entity Framework and uses **ADO.NET + Stored Procedures** for all database operations.
+Student Portal Management System is a simple MVC-based web application used to manage student records. It allows users to add, view, update, and delete student details using SQL Server and ADO.NET. This project currently supports only the student module, and admin/user authentication will be added in future enhancements.
 
 ##  Technology Stack
 - **Frontend:** HTML, CSS, Bootstrap  
