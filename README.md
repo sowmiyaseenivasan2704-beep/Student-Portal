@@ -11,7 +11,7 @@ This system allows admin to register students, update details, view records, and
 - **Architecture:** MVC (Model–View–Controller)  
 - **ORM:** Not used (ADO.NET only)  
 
-## 🎯 Core Functionalities
+## Core Functionalities
 
 ### **1️⃣ Create Student**
 - Enter Name, Email, Department, DOB, Mobile  
